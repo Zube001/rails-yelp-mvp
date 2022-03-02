@@ -7,11 +7,11 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 puts 'cleaning up database'
 categories = [
-  'chinese',
-  'italian',
-  'japanese',
-  'french',
-  'belgian'
+  'Chinese',
+  'Italian',
+  'Japanese',
+  'French',
+  'Belgian'
 ]
 
 10.times do
